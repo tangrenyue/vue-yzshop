@@ -1,8 +1,8 @@
-import Vue from 'vue/dist/vue.js'
+import Vue from 'vue'
 
 new Vue({
   el: '#app',
   data: {
-    title: 'm'
+    title: 'member'
   }
 })

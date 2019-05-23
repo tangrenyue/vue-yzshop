@@ -50,5 +50,6 @@ const getPages = (() => {
 console.log('pages: ', getPages)
 
 module.exports = {
+  runtimeCompiler: true,
   pages: getPages
 }
